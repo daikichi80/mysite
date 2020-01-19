@@ -1,11 +1,9 @@
-body {
-  text-align: center;
+body .container {
+  background-color: red;
 }
 
-body .container {
-  width: 100%;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
+body .container .jumbotron {
+  background-image: url(/images/header.png);
+  height: 440px;
 }
 /*# sourceMappingURL=style.css.map */

@@ -1,7 +1,9 @@
 body{
-  text-align: center;
   .container{
-    width: 100%;
-    display: flex;
+    background-color:red;
+  .jumbotron{
+    background-image:url(/images/header.png);
+    height:440px
+  }
   }
 }
